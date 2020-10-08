@@ -11,3 +11,12 @@
     Know more about me : https://manishyadav.dev
   </samp>
 </p>
+
+<p align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=meanmachin3&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meanmachin3&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://gpvc.arturio.dev/meanmachin3" alt="Profile views" />
+</p>
