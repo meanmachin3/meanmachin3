@@ -8,7 +8,7 @@
     <br><br>
     SDE Intern @AMZN | Ex-@paytminsider | Will code for coffee, food, compliments | Video gamer, DIYer
     <br><br>
-    Know more about me : https://manishyadav.dev
+    ✉️ Send me an email at : hi@manishyadav.dev
   </samp>
 </p>
 
