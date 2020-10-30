@@ -8,8 +8,6 @@
   
 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meanmachin3" alt="meanmachin3" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_meanmachin3_" target="blank"><img src="https://img.shields.io/twitter/follow/_meanmachin3_?logo=twitter&style=for-the-badge" alt="_meanmachin3_" /></a> </p>
 
 - 🔭 I’m currently studying at [University of Florida](https://cise.ufl.edu/)
