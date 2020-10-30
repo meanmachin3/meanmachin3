@@ -1,12 +1,12 @@
 <h1 align="center"><samp>
   Namaste 🙏, I'm Manish Yadav <samp>
 </h1>
-<h3 align="center">
+<p align="center">
   <samp>
   SDE Intern @AMZN | Ex-@paytminsider | Will code for coffee, food, compliments | Video gamer, DIYer
   </samp>
   
-</h3>
+</p>
 
 <p align="left"> <a href="https://twitter.com/_meanmachin3_" target="blank"><img src="https://img.shields.io/twitter/follow/_meanmachin3_?logo=twitter&style=for-the-badge" alt="_meanmachin3_" /></a> </p>
 
