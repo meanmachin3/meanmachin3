@@ -1,16 +1,9 @@
 name: Update this repo's README
 
-# on:
-#   schedule:
-#     # Once a day at 8 AM
-#     - cron: 0 8 * * *
 on:
-  workflow_dispatch:
-    inputs:
-      name:
-        description: 'Why are you running ?'
-        required: false
-        default: 'Test'
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
         
 jobs:
   update:
