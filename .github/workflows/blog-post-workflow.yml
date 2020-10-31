@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses:  gautamkrishnar/blog-post-workflow@master
         with:
           feed-url: https://manishyadav.dev/rss.xml
-          readme-section: feed
+          max_post_count: "4"
