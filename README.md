@@ -27,6 +27,10 @@
 
 **📕 Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Push Sum and Gossip Protocols](https://manisyadav.dev/blog/gossip-push-sum-protocols)
+- [Guide to Hacktoberfest and winning a free T-Shirt](https://manisyadav.dev/blog/guide-to-hacktoberfest)
+- [My Journey on learning F#](https://manisyadav.dev/blog/learning-fsharp)
+- [Inside Amazon](https://manisyadav.dev/blog/inside-amazon)
 <!-- BLOG-POST-LIST:END -->
 
 
