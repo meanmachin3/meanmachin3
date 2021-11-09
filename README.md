@@ -25,10 +25,10 @@
 
 **📕 Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
-- [Configure Nginx Proxy Manager with Bitwarden](https://manisyadav.dev/blog/configure-nginx-proxy-manager-with-bitwarden)
-- [Understanding Push Sum and Gossip Protocols](https://manisyadav.dev/blog/gossip-push-sum-protocols)
-- [Guide to Hacktoberfest and winning a free T-Shirt](https://manisyadav.dev/blog/guide-to-hacktoberfest)
-- [My Journey on learning F#](https://manisyadav.dev/blog/learning-fsharp)
+- [Configure Nginx Proxy Manager with Bitwarden](https://manishyadav.dev/blog/configure-nginx-proxy-manager-with-bitwarden)
+- [Understanding Push Sum and Gossip Protocols](https://manishyadav.dev/blog/gossip-push-sum-protocols)
+- [Guide to Hacktoberfest and winning a free T-Shirt](https://manishyadav.dev/blog/guide-to-hacktoberfest)
+- [My Journey on learning F#](https://manishyadav.dev/blog/learning-fsharp)
 <!-- BLOG-POST-LIST:END -->
 
 
