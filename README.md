@@ -25,10 +25,10 @@
 
 **📕 Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Iterative Binary Tree Traversals](https://manishyadav.dev/blog/binary-tree-traversal)
 - [Configure Nginx Proxy Manager with Bitwarden](https://manishyadav.dev/blog/configure-nginx-proxy-manager-with-bitwarden)
 - [Understanding Push Sum and Gossip Protocols](https://manishyadav.dev/blog/gossip-push-sum-protocols)
 - [Guide to Hacktoberfest and winning a free T-Shirt](https://manishyadav.dev/blog/guide-to-hacktoberfest)
-- [Passwords, 2FA, and Yubikeys](https://manishyadav.dev/blog/stick-with-security)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"> <a href="https://twitter.com/_meanmachin3_" target="blank"><img src="https://img.shields.io/twitter/follow/_meanmachin3_?logo=twitter&style=for-the-badge" alt="_meanmachin3_" /></a> </p>
