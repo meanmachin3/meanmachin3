@@ -31,12 +31,3 @@
 - [Guide to Hacktoberfest and winning a free T-Shirt](https://manishyadav.dev/blog/guide-to-hacktoberfest)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> <a href="https://twitter.com/_meanmachin3_" target="blank"><img src="https://img.shields.io/twitter/follow/_meanmachin3_?logo=twitter&style=for-the-badge" alt="_meanmachin3_" /></a> </p>
-
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meanmachin3&show_icons=true&locale=en" alt="meanmachin3" /></p>
--->
-<p align="left">
-  <img src="https://gpvc.arturio.dev/meanmachin3" alt="Profile views" />
-</p>
-
